@@ -1,0 +1,9 @@
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url('https://p3-sign.douyinpic.com/tos-cn-i-0813/dfb7e64f2e254d8c809591b2da1c3ffb~tplv-dy-lqen-new:1920:1080:q80.webp?x-expires=1690189200&x-signature=vAuAswRvJOelGDtXJxdunKD35pI%3D&from=3213915784&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=image&biz_tag=aweme_images&l=20230710172045D0AD6778DCF7F80040CF');
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+}
+
